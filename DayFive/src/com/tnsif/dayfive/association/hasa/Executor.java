@@ -7,7 +7,7 @@ public class Executor {
 		Address a=new Address("Swargate", "Pune", "maha", 123, "411001");
 		Person p=new Person("Shubham", a);
 		p.displayinfo();
-		Scanner
+	
 	}
 
 }
