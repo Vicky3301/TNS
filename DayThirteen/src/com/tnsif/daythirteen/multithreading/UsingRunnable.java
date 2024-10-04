@@ -21,7 +21,7 @@ public class UsingRunnable implements Runnable {
 	@Override
 	public void run() {
 		
-		for(int i=end;i>start;i--)
+		for(int i=end;i>start; i--)
 		{
 			try {
 				Thread.sleep(500);
